@@ -1,6 +1,10 @@
 Hello World! 
 Eu gosto de: 
 Dormir
-Beber
 correr
 cozinhar
+Beber
+Dormir
+Dormir
+Dormir
+
